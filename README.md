@@ -10,3 +10,6 @@ Keywords: These are words or phrases that describe the content of the web page. 
 Description: This is a brief summary of the web page's content. Search engines often use this description in search results to give users an idea of what the page is about.
 
 Author: This indicates the name of the person or organization that created the content of the web page.
+
+![image](https://github.com/pragyasingh-29/OrgLens-Problem-Statement-3/assets/129204388/e8c3d6b8-3861-4767-8f3f-8f78c1d7ca3d)
+
